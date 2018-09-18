@@ -1,5 +1,6 @@
 {
   "viewportWidth": 1400,
   "viewportHeight": 1200,
-  "chromeWebSecurity": false
+  "chromeWebSecurity": false,
+  "videoCompression": 1
 }
